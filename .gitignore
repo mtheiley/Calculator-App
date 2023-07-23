@@ -1,0 +1,11 @@
+# Mac OS
+**/.DS_Store
+
+# Expo
+.expo
+
+# Node
+node_modules
+*.log
+.nvm
+package-lock.json
